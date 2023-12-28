@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Midiet_Serif_Bold
+font link: http://www.yoworks.com/midiet/index.html
+font author: Yamaoka Yasuhiro
+font author site: http://www.yoworks.com/
+
+
+icon designer: Gregor Cresnar
+icon designer link: /grega.cresnar
+        
+{"bg":"#F9F5EC","icon":"#B3A09D","font":"#B3A09D","slogan":"#c7b4b1"}
+      
